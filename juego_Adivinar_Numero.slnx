@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="juego_Adivinar_Numero/juego_Adivinar_Numero.vcxproj" Id="964a0fdd-d0b1-4b45-9569-0d233437b809" />
+</Solution>

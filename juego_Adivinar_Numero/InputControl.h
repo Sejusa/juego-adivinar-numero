@@ -1,0 +1,1 @@
+short controladorInput(short opcion);
